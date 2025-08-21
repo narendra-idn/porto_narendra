@@ -114,7 +114,7 @@ export default function ProjectsPage() {
             Interested in collaborating?
           </h3>
           <p className="text-gray-600 dark:text-gray-300 mb-6">
-            I'm always open to discussing new projects and opportunities.
+            I&#39;m always open to discussing new projects and opportunities.
           </p>
           <a
             href="/contact"

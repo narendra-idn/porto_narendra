@@ -146,7 +146,7 @@ export default function SkillsPage() {
             Ready to work together?
           </h3>
           <p className="text-gray-600 dark:text-gray-300 mb-6">
-            Let's discuss how my skills can help bring your project to life.
+            Let&#39;s discuss how my skills can help bring your project to life.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a

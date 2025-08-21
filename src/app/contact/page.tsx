@@ -141,10 +141,10 @@ export default function ContactPage() {
           >
             <div className="bg-gradient-to-r from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 rounded-lg p-8">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4">
-                Let's work together!
+                Let&#39;s work together!
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-4">
-                I'm currently available for freelance projects and full-time
+                I&#39;m currently available for freelance projects and full-time
                 opportunities. Here are some ways I can help:
               </p>
               <ul className="space-y-2 text-gray-600 dark:text-gray-300">

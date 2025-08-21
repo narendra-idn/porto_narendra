@@ -209,7 +209,7 @@ export default function AboutPage() {
                     Duta Wacana Christian University
                   </h3>
                   <p className="text-sm text-gray-500 dark:text-gray-400 mb-2">
-                    Bachelor's degree, Informatics • 2020 - 2024
+                    Bachelor&#39;s degree, Informatics • 2020 - 2024
                   </p>
                   <p className="text-gray-600 dark:text-gray-300">
                     Graduated with a strong foundation in computer science
@@ -312,7 +312,7 @@ export default function AboutPage() {
             {/* Call to Action */}
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8 text-center">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-4">
-                Let's Connect!
+                Let&#39;s Connect!
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-6">
                 Interested in working together or just want to chat about
