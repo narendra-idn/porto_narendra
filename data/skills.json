@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Flutter",
+    "level": "Advanced",
+    "icon": "flutter",
+    "category": "Mobile Development"
+  },
+  {
+    "name": "Kotlin",
+    "level": "Intermediate",
+    "icon": "kotlin",
+    "category": "Mobile Development"
+  },
+  {
+    "name": "Ionic",
+    "level": "Beginner",
+    "icon": "ionic",
+    "category": "Mobile Development"
+  },
+  {
+    "name": "HTML/CSS",
+    "level": "Advanced",
+    "icon": "html",
+    "category": "Frontend"
+  },
+  {
+    "name": "React.js",
+    "level": "Advanced",
+    "icon": "react",
+    "category": "Frontend"
+  },
+  {
+    "name": "JavaScript",
+    "level": "Intermediate",
+    "icon": "javascript",
+    "category": "Frontend"
+  },
+  {
+    "name": "Tailwind",
+    "level": "Intermediate",
+    "icon": "tailwind",
+    "category": "Frontend"
+  },
+  {
+    "name": "Vue.js",
+    "level": "Beginner",
+    "icon": "vue",
+    "category": "Frontend"
+  },
+  {
+    "name": "Angular",
+    "level": "Beginner",
+    "icon": "angular",
+    "category": "Frontend"
+  },
+  {
+    "name": "Bootstrap",
+    "level": "Beginner",
+    "icon": "bootstrap",
+    "category": "Frontend"
+  },
+  {
+    "name": "Next.js",
+    "level": "Intermediate",
+    "icon": "next.js",
+    "category": "Full-stack"
+  },
+  {
+    "name": "Node.js",
+    "level": "Intermediate",
+    "icon": "node",
+    "category": "Backend"
+  },
+  {
+    "name": "PHP",
+    "level": "Intermediate",
+    "icon": "php",
+    "category": "Backend"
+  },
+  {
+    "name": "Firebase",
+    "level": "Intermediate",
+    "icon": "firebase",
+    "category": "Backend as a Service"
+  },
+  {
+    "name": "MySQL",
+    "level": "Intermediate",
+    "icon": "mysql",
+    "category": "Database"
+  },
+  {
+    "name": "Python",
+    "level": "Intermediate",
+    "icon": "python",
+    "category": "Machine Learning/Data Science"
+  }
+]
