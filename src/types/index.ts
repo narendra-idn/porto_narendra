@@ -5,7 +5,7 @@ export interface Project {
   title: string;
   description: string;
   technologies: string[];
-  github: string | null;
+  github?: string;
   demo?: string | null;
   image: string | string[];
   featured: boolean;
