@@ -117,7 +117,7 @@ const ContactForm = () => {
         </div>
         <h3 className="text-lg font-semibold text-green-800 dark:text-green-200 mb-2">Message Sent!</h3>
         <p className="text-green-600 dark:text-green-300 mb-4">
-          Thank you for reaching out. I'll get back to you as soon as possible.
+          Thank you for reaching out. I&#39;ll get back to you as soon as possible.
         </p>
         <button
           onClick={resetForm}

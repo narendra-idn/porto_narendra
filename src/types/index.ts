@@ -19,7 +19,7 @@ export interface Skill {
 }
 
 export interface GitHubRepo {
-  fork: any;
+  fork: unknown;
   id: number;
   name: string;
   full_name: string;
