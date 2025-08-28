@@ -24,7 +24,7 @@
   {
     "id": "portfolio-mobile8",
     "title": "Duidku",
-    "description": "Interactive data visualization dashboard built with Python. Analyzes sales data and generates insights using pandas and matplotlib.",
+    "description": "Personal finance application helps track income and expenses in detail, keeping them clearly separated. It also provides monthly records of spending and shows the total net balance.",
     "technologies": ["Android", "Flutter", "Internal"],
     "demo": "https://github.com/narendra-idn/apk_duidku",
     "image": [
