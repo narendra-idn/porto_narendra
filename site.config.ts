@@ -56,7 +56,7 @@ export const siteConfig = {
   resume: {
     filename: "Narendra_Resume.pdf",
     downloadText: "Download Resume",
-    driveUrl: "https://drive.google.com/file/d/1gt-VSItRkT1e97JWeVEE9us73VFMIg2Q/view?usp=sharing",
+    driveUrl: "https://drive.google.com/file/d/1OuoS5VU3gW1qSjbjw6fJ09PP-UgDx_Q8/view?usp=drive_link",
   },
 };
 
