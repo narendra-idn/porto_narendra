@@ -5,7 +5,7 @@
     "description": "Mobile app for doctors to monitor patients’ vital signs and lab results, receive emergency notifications, and record integrated patient notes (SOAP).",
     "technologies": ["Android", "Flutter", "Firebase", "Client"],
     "demo": null,
-    "image": "/images/emr.png",
+    "image": ["/images/emr1.png", "/images/emr2.png", "/images/emr3.png"],
     "featured": true
   },
   {
@@ -14,11 +14,7 @@
     "description": "Prototype app for hospital patients to register online, manage appointments, view doctors’ schedules, switch hospitals, and track visit history with calendar notifications.",
     "technologies": ["Android", "Website", "Flutter", "Firebase", "Client"],
     "demo": null,
-    "image": [
-      "/images/demo1.png",
-      "/images/demo2.png",
-      "/images/demo3.png"
-    ],
+    "image": ["/images/demo1.png", "/images/demo2.png", "/images/demo3.png"],
     "featured": true
   },
   {
@@ -27,10 +23,7 @@
     "description": "Personal finance application helps track income and expenses in detail, keeping them clearly separated. It also provides monthly records of spending and shows the total net balance.",
     "technologies": ["Android", "Flutter", "Internal"],
     "demo": "https://github.com/narendra-idn/apk_duidku",
-    "image": [
-      "/images/duidku1.png",
-      "/images/duidku2.png"
-    ],
+    "image": ["/images/duidku1.png", "/images/duidku2.png"],
     "featured": false
   },
   {
@@ -73,19 +66,31 @@
     "id": "portfolio-mobile1",
     "title": "Kali Tech",
     "description": "Developed an Android-based calisthenics assistant app using the SDLC Prototyping method. Conducted research on user behavior and progress, and implemented gamification features to boost engagement.",
-    "technologies": ["Android", "Kotlin", "Firebase", "JavaScript", "Node.js", "Internal"],
-    "demo": null,
-    "image": [
-      "/images/kalitech1.png",
-      "/images/kalitech2.png"
+    "technologies": [
+      "Android",
+      "Kotlin",
+      "Firebase",
+      "JavaScript",
+      "Node.js",
+      "Internal"
     ],
+    "demo": null,
+    "image": ["/images/kalitech1.png", "/images/kalitech2.png"],
     "featured": false
   },
   {
     "id": "portfolio-website2",
     "title": "KalkulISAI Application",
     "description": "MBKM Kedaireka Beehive Drone Project – KalkulISAI Application Developed a Vue.js-based application to calculate carbon values using imagery and GIS, with backend processing and data storage implemented on AWS Lambda and DynamoDB.",
-    "technologies": ["Website", "Vue.js", "Firebase", "JavaScript", "Mapbox GL", "DynamoDB", "Client"],
+    "technologies": [
+      "Website",
+      "Vue.js",
+      "Firebase",
+      "JavaScript",
+      "Mapbox GL",
+      "DynamoDB",
+      "Client"
+    ],
     "demo": null,
     "image": [
       "/images/kalkuisai1.png",
@@ -100,12 +105,16 @@
     "id": "portfolio-website1",
     "title": "Flood Detection Website",
     "description": "Flood Detection Website – Developed a web-based system that uses Ciliwung River floodgate data (5 key parameters) to predict flood events with Python branching algorithms, integrated into a PHP, CSS, and JavaScript website.",
-    "technologies": ["Website", "Python", "HTML/CSS", "PHP", "MySQL", "Internal"],
-    "demo": null,
-    "image": [
-      "/images/cebancil1.png",
-      "/images/cebancil2.png"
+    "technologies": [
+      "Website",
+      "Python",
+      "HTML/CSS",
+      "PHP",
+      "MySQL",
+      "Internal"
     ],
+    "demo": null,
+    "image": ["/images/cebancil1.png", "/images/cebancil2.png"],
     "featured": false
   }
 ]
