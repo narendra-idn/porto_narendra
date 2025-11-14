@@ -1,20 +1,20 @@
 [
   {
     "id": "portfolio-mobile7",
-    "title": "Medinfras Mobile EMR",
-    "description": "Mobile app for doctors to monitor patients’ vital signs and lab results, receive emergency notifications, and record integrated patient notes (SOAP).",
+    "title": "Mobile Medical Recording App",
+    "description": "Mobile app for doctors to monitor patients vital signs and lab results, receive emergency notifications, and record integrated patient notes (SOAP).",
     "technologies": ["Android", "Flutter", "Firebase", "Client"],
     "demo": null,
-    "image": ["/images/emr1.png", "/images/emr2.png", "/images/emr3.png"],
+    "image": [""],
     "featured": true
   },
   {
     "id": "portfolio-mobile6",
-    "title": "Medinfras Mobile App",
-    "description": "Prototype app for hospital patients to register online, manage appointments, view doctors’ schedules, switch hospitals, and track visit history with calendar notifications.",
+    "title": "Mobile App Registration",
+    "description": "Prototype app for hospital patients to register online, manage appointments, view doctors schedules, switch hospitals, and track visit history with calendar notifications.",
     "technologies": ["Android", "Website", "Flutter", "Firebase", "Client"],
     "demo": null,
-    "image": ["/images/demo1.png", "/images/demo2.png", "/images/demo3.png"],
+    "image": [""],
     "featured": true
   },
   {
@@ -42,24 +42,6 @@
     "technologies": ["Android", "Flutter", "Firebase", "Client"],
     "demo": "https://play.google.com/store/apps/details?id=com.rsrapha.raphatheresiajambimobile&pcampaignid=web_share",
     "image": "/images/rsrths.png",
-    "featured": false
-  },
-  {
-    "id": "portfolio-mobile3",
-    "title": "Mobile Santa Elisabeth Batam Sei Lekop",
-    "description": "Hospital registration app for non-BPJS patients with features such as online registration, queue tracking, cancellations, schedules, and visit history.",
-    "technologies": ["Android", "Website", "Flutter", "Firebase", "Client"],
-    "demo": "https://113.212.165.61/webregisws/",
-    "image": "/images/rssebs.png",
-    "featured": false
-  },
-  {
-    "id": "portfolio-mobile2",
-    "title": "Mobile Santa Elisabeth Batam Lubuk Baja",
-    "description": "Similar registration app providing online booking, cancellations, queue tracking, schedules, and patient visit history.",
-    "technologies": ["Android", "Website", "Flutter", "Firebase", "Client"],
-    "demo": "https://113.212.163.114/webregisws/",
-    "image": "/images/rsseb.png",
     "featured": false
   },
   {

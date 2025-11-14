@@ -18,7 +18,8 @@ interface ProjectCardProps {
 }
 
 const ProjectCard = ({ project, index }: ProjectCardProps) => {
-  const images = typeof project.image === "string" ? [project.image] : project.image;
+  const images =
+    typeof project.image === "string" ? [project.image] : project.image;
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [isHovered, setIsHovered] = useState(false);
   const [isSlideshowPlaying, setIsSlideshowPlaying] = useState(true);
@@ -163,7 +164,7 @@ const ProjectCard = ({ project, index }: ProjectCardProps) => {
           {project.title}
         </h3>
 
-        <p className="text-gray-600 dark:text-gray-300 mb-4 line-clamp-3">
+        <p className="text-gray-600 dark:text-gray-300 mb-4">
           {project.description}
         </p>
 
@@ -180,7 +181,6 @@ const ProjectCard = ({ project, index }: ProjectCardProps) => {
 
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3">
-
             {project.demo && (
               <Link
                 href={project.demo}
